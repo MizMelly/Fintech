@@ -1,7 +1,3 @@
-Here’s a clean, professional README.md tailored for your Fintech React Native application:
-
-⸻
-
 💳 Fintech Mobile App (React Native)
 
 A modern fintech mobile application built with React Native that enables users to manage finances, perform transactions, track expenses, and access secure digital payment features.
